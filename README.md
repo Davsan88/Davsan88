@@ -37,3 +37,4 @@ A movie and TV watchlist app that uses the TMDB API to search for shows and save
 - [LinkedIn](https://www.linkedin.com/in/david-sanchez-1995ab268/)
 
 
+![alt text](exec-419d9e07-d760-4a77-8afc-1cca6590a03d.png)
