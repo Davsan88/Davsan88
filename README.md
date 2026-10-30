@@ -10,14 +10,6 @@ I'm currently working through Scrimba's Frontend Developer Path and looking for 
 - **Tools and concepts:** Git, REST APIs, responsive design, accessibility
 - **Also learning:** TypeScript
 
-## Featured projects
-
-### [Quizzical](https://quizzical-davsan.netlify.app/)
-
-### [Assembly: Endgame](https://assembly-davsan.netlify.app/)
-
-### [Show Watchlist App](https://watchlist-app-davsan.netlify.app/)
-
 ## More about me
 
 - [Portfolio](https://davsan88.netlify.app/)
